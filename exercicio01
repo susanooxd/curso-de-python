@@ -1,0 +1,9 @@
+print('Olá mundo')
+msn = ('Olá mundooo')
+print(msn)
+
+#faca um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+print('===============================')
+nome = input('Digite seu nome: ')
+print('é um prazer te conhecer,', nome )
+print('é um prazer te conhecer, {}!'.format(nome))
